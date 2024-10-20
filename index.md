@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Text can be **negreta**, _italic_, or ~~strikethrough~~.
+Text can be **negreta del Àfrica Tropical**
 
 [Link to another page](./another-page.html).
 
