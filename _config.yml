@@ -1,5 +1,5 @@
 title: Mitjanit
-description: Midnight is a theme for GitHub Pages.
-show_downloads: true
+description: Midnight is dark.
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-midnight
